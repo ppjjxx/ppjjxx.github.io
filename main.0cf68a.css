@@ -12,17 +12,14 @@
     z-index:999
 }
  .left-col #header a {
-    color:#696969
-    color:#673ab7^M
+    color:#d93c69;
  }
  .left-col #header a:hover {
-    color:#b0a0aa
-    color: #03A9F4^M
+    color:#e5e336;
  }
  .left-col #header .header-subtitle {
      text-align:center;
-    color:#999;
-    color:#673ab7;
+     color:#d93c69;
      font-size:18px;
 }
 
